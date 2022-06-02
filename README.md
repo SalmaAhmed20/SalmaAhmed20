@@ -4,7 +4,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SalmaAhmed20&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Total views 
-![](https://gitwar.herokuapp.com/badge?SalmaAhmed20=your-github-SalmaAhmed20)
+![](https://gitwar.herokuapp.com/badge?SalmaAhmed20=SalmaAhmed20)
 
 <!--
 **SalmaAhmed20/SalmaAhmed20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
