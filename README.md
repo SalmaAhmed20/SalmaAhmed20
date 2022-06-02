@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there this me 👋
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalmaAhmed20&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SalmaAhmed20&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
