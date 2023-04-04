@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salma Ahmed</h1>
-<h3 align="center">DevOps Engineer & Java Core Developer</h3>
+<h3 align="center">DevOps Engineer & Backend Developer</h3>
 <br>
 <img align="right" width="400" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/DEVOPS.gif"> 
 <br>
